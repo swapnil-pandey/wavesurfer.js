@@ -6,7 +6,7 @@ and Canvas.
 
 ![Screenshot](example/screenshot.png?raw=true "Screenshot")
 
-### Browser support
+### Browser supportmmmmmmmm
 wavesurfer.js works only in modern browsers supporting Web Audio
 (Chrome, Firefox, Safari, Opera etc).
 
